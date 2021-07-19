@@ -1,4 +1,6 @@
-##Hibernate Console Application
+###
+Hibernate Console Application
+###
 <hr>
 Bu proje hibernate ile yapmış olduğum ufak bir frameworktür.
 Projede yer alan bazı detaylar şu şekilde
